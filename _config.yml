@@ -25,7 +25,7 @@ author: 'William Holtam'
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://williamhotlam.github.io'
+url: 'https://williamholtam.github.io'
 baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
