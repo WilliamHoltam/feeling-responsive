@@ -3,7 +3,7 @@
   side: left
 
 - title: "About Me"
-  url: "/about.md"
+  url: "/about/"
   side: left
 
 # - title: Getting Started
