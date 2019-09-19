@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "About Me"
-subheadline: "A step-by-step guide
+subheadline: "A step-by-step guide"
 teaser: "Why you should hire me, one step at a time."
 header:
    image_fullwidth: "header_homepage_13.jpg"
