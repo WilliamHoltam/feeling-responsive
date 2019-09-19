@@ -13,6 +13,6 @@ required to deliver two state benefits as well as ~£14bn expenditure for both t
 1. I graduated from Surrey University with a BSc Physics in 2018. I achieved 80% in my Final Year Project Report:
 "An Insight into Future UK Population Demographics Using Monte Carlo Simulation".
 1. Currently working at [Datalytyx ltd.][1], as a Data Scientist, Im currently developing and testing the Gallium IoT
-data classification engine.
+data classifier.
 
 [1]: https://www.datalytyx.com
