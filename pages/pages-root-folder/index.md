@@ -16,7 +16,7 @@ widget2:
   title: "About Me"
   url: 'http://williamholtam.github.io/feeling-responsive/about/'
   image: widget-1-302x182.jpg
-  text: 'Check out my credentials here: <em>William Holtam</em> is a Data Scientist / Developer, with a background in Operational Research and Physics. He has experience in both the public and private sectors.
+  text: 'Check out my credentials here: <em>William Holtam</em> is a Data Scientist / Developer, with a background in Operational Research and Physics. He has experience in both the public and private sectors.'
 widget3:
   title: "Resources"
   url: 'http://williamholtam.github.io/feeling-responsive/hobbies/'
