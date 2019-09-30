@@ -19,7 +19,7 @@ widget2:
   text: 'Check out my credentials here: <em>William Holtam</em> is a Data Scientist / Developer, with a background in Operational Research and Physics. He has experience in both the public and private sectors.
 <!--    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>' -->
 widget3:
-  title: "Resources
+  title: "Resources"
   url: 'http://williamholtam.github.io/feeling-responsive/hobbies/'
   image: widget-github-303x182.jpg
   text: 'I like to share useful resources I've found around the web here.'
