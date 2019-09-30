@@ -15,13 +15,13 @@ widget1:
 widget2:
   title: "About Me"
   url: 'http://williamholtam.github.io/feeling-responsive/about/'
-  image: widget-1-302x182.jpg
+  image: widget-github-303x182.jpg
   text: 'Check out my credentials here: <em>William Holtam</em> is a Data Scientist / Developer, with a background in Operational Research and Physics. He has experience in both the public and private sectors.'
 widget3:
   title: "Resources"
-  url: 'http://williamholtam.github.io/feeling-responsive/hobbies/'
+  url: 'http://williamholtam.github.io/feeling-responsive/resources/'
   image: widget-github-303x182.jpg
-  text: 'I like to share useful resources I've found around the web here.'
+  text: "I like to share useful resources I've found around the web here."
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -43,10 +43,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
